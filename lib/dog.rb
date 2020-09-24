@@ -1,6 +1,6 @@
 class Dog
 end
 
-bogie = Dog.new
-lou = Dog.new
-bella = Dog.new
+fido = Dog.new
+snoopie = Dog.new
+lassie = Dog.new
