@@ -1,5 +1,6 @@
 class Dog
+end
 
-Dog.new = Bogie
-Dog.new = Lou
-Dog.new = Bella
+bogie = Dog.new
+lou = Dog.new
+bella = Dog.new
